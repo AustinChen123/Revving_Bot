@@ -1,0 +1,6 @@
+  .gcloudignore
+  .git
+  .gitignore
+channels.json
+credentials.json
+credentials_dev.json
